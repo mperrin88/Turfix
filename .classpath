@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="librairie/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="librairie/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="librairie/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="librairie/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="librairie/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="librairie/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="librairie/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="librairie/xmlbeans.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
